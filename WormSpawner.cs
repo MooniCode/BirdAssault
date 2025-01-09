@@ -37,7 +37,12 @@ namespace MyFinalProject
                     }
                 }
             }
-            if (nest != null) nest.Update();
+
+            if (nest != null)
+            {
+                nest.Update();
+            }
+
             if (GameSettings.IsGamePlaying)
             {
                 wormSpawnTimer--;
