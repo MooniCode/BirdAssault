@@ -5,3 +5,5 @@
 
 ### In game:
 ![image](https://github.com/user-attachments/assets/845cd417-97a9-4c79-a0e1-756ef0381ba1)
+
+The build for the game is located under BirdAssault > bin > Debug > net6.0-windows > MyFinalProject.exe
